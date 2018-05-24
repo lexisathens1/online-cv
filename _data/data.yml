@@ -10,7 +10,7 @@ sidebar:
     pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: lexisathens1@ufl.edu
+    email: lexisathens1@gmail.com
     phone: 239 313 8474
     #website: blog.webjeda.com #do not add http://
     linkedin: alexis-athens #alandoe
@@ -73,7 +73,7 @@ projects:
       - project:
         title: DoE Project Here (and upload to GitHub)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "One link for source code (GitHub) and another for application/Rmd?"
       - project:
         title: Tempo
         link: "#"
