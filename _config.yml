@@ -1,12 +1,12 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
-baseurl: 'lexisathens1.github.io' #change it according to your repository name
+baseurl: '/lexisathens1.github.io' #change it according to your repository name
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
-#education_in_main: True
+education_in_main: True
 
 # Tracker
 analytics: UA-83979019-1
