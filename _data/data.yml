@@ -58,12 +58,12 @@ studies:
       degree: BS in Statistics
       university: University of Florida
       time: 2015 - 2019
-      details: "Create bulleted list for minors, honors & awards, courses"
+      #details: "Create bulleted list for minors, honors & awards, courses"
 
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor."
+    #intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor."
     
     projects:
       - project:
