@@ -6,14 +6,15 @@ sidebar:
     
     # Profile information
     name: Alexis Athens
-    tagline: Undergraduate Student at the University of Florida
+    tagline: Undergraduate Student #at the University of Florida
+    tagline: University of Florida
     pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: lexisathens1@gmail.com
     phone: 239 313 8474
     #website: blog.webjeda.com #do not add http://
-    linkedin: alexis-athens #alandoe
+    linkedin: alexis-athens
     github: lexisathens1
     #twitter: '@webjeda'
 
@@ -80,11 +81,10 @@ projects:
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 experiences:
-    -experience:
-        job-title: xxx
-        time: month
-        company: uf
-        details: "worked here"
+    job-title: xxx
+    time: month
+    company: uf
+    details: "worked here"
 
 
 #publications:
@@ -129,7 +129,7 @@ skills:
           level: 55%
         - skill:
           name: MatLab
-          level: 50%
+          level: 40%
 
 
 footer: 
