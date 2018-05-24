@@ -79,6 +79,13 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
+experiences:
+    -experience:
+        job-title: xxx
+        time: month
+        company: uf
+        details: "worked here"
+
 
 #publications:
     #title: Publications
