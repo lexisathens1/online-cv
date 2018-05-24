@@ -59,6 +59,11 @@ studies:
       university: University of Florida
       time: 2015 - 2019
       #details: "Create bulleted list for minors, honors & awards, courses"
+    - education:
+      degree: BA in Mathematics
+      university: University of Florida
+      time: 2015 - 2019
+      #details: "Create bulleted list for minors, honors & awards, courses"
 
 
 projects:
