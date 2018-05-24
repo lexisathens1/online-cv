@@ -69,7 +69,7 @@ projects:
     projects:
       - project:
         title: Deforestation Application
-        link: "#hook"
+        link: "https://github.com/lexisathens1/deforestation-app" #"#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
       - project:
         title: DoE Project Here (and upload to GitHub)
