@@ -107,7 +107,10 @@ skills:
           level: 95%
         - skill:
           name: C++
-          level: 90%
+          level: 92%
+        - skill:
+          name: Photoshop & Illustrator
+          level: 75%
         - skill:
           name: Java
           level: 70%
