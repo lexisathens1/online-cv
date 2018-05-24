@@ -1,6 +1,6 @@
 sidebar:
     # Site Settings
-    title: My Resume
+    title: Alexis Athens
     url: 'http://webjeda.com'
     #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
@@ -68,12 +68,12 @@ projects:
     projects:
       - project:
         title: Deforestation Application
-        link: "#deforestation-app" #"#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "#deforestation-app"
+        tagline: "An interactive tool that predicts deforestation with respect to new infrastructure."
       - project:
-        title: DoE Project Here (and upload to GitHub)
-        link: "#"
-        tagline: "One link for source code (GitHub) and another for application/Rmd?"
+        title: Zero-Waste UF
+        link: "#zero-waste-uf"
+        tagline: "A study of UF students' carbon footprints on campus."
       - project:
         title: Tempo
         link: "#"
