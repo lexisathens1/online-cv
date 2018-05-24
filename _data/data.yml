@@ -2,41 +2,41 @@ sidebar:
     # Site Settings
     title: My Resume
     url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Alexis Athens
+    tagline: Undergraduate Student at the University of Florida
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: lexisathens1@ufl.edu
+    phone: 239 313 8474
+    #website: blog.webjeda.com #do not add http://
+    linkedin: alexis-athens #alandoe
+    github: lexisathens1
+    #twitter: '@webjeda'
 
     languages:
         - language:
           idiom: English
           level: Native
         - language:
-          idiom: French
-          level: Professional
-        - language:
           idiom: Spanish
-          level: Professional
+          level: Conversational
         
     interests:
+        - interest:
+          item: Outdoor Education
+          link:
         - interest:
           item: Climbing
           link:
         - interest:
-          item: Snowboarding
+          item: Backpacking
           link:
         - interest:
-          item: Cooking
+          item: Reading
           link:
 
         
@@ -51,22 +51,10 @@ career-profile:
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-
-    - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: BS in Statistics
+      university: University of Florida
+      time: 2015 - 2019
+      details: "Create bulleted list for minors, honors & awards, courses"
 
 
 projects:
@@ -76,67 +64,59 @@ projects:
     
     projects:
       - project:
-        title: Velocity
+        title: Deforestation Application
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
       - project:
-        title: DevStudio
+        title: DoE Project Here (and upload to GitHub)
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
       - project:
         title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+#publications:
+    #title: Publications
+    #intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #publications:
+      #- paper:
+        #title: The Art of Computer Programming
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
+      #- paper:
+        #title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      #- paper:
+        #title: A syntax directed compiler for Algol 60
+        #authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
-        - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
+          name: R
           level: 95%
         - skill:
-          name: Ruby on Rails
-          level: 85%
+          name: C++
+          level: 90%
         - skill:
-          name: Sketch & Photoshop
+          name: Java
+          level: 70%
+        - skill:
+          name: SQL
           level: 60%
+        - skill:
+          name: Python
+          level: 55%
+        - skill:
+          name: MatLab
+          level: 50%
 
 
 footer: 
