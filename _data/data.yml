@@ -77,7 +77,7 @@ projects:
         tagline: "An interactive tool that predicts deforestation in the Amazon basin with respect to new infrastructure."
       - project:
         title: Zero-Waste UF
-        link: "#zero-waste-uf"
+        link: "https://github.com/lexisathens1/zero-waste-uf"
         tagline: "A study of UF students' carbon footprints on campus."
       
       
