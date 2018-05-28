@@ -73,7 +73,7 @@ projects:
     projects:
       - project:
         title: Deforestation Application
-        link: "#deforestation-app"
+        link: "https://github.com/lexisathens1/deforestation-app"
         tagline: "An interactive tool that predicts deforestation in the Amazon basin with respect to new infrastructure."
       - project:
         title: Zero-Waste UF
